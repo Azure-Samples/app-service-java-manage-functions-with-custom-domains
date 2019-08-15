@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Appservice
-platforms: java
-author: yaohaizh
+extensions:
+- services: Appservice
+- platforms: java
 ---
 
-## Getting Started with Appservice - Manage Function App With Domain Ssl - in Java ##
+# Getting Started with Appservice - Manage Function App With Domain Ssl - in Java #
 
 
   Azure App Service sample for managing function apps.
