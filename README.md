@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Appservice
-- platforms: java
+description: "Azure App Service sample for managing function apps."
+urlFragment: app-service-java-manage-functions-with-custom-domains
 ---
 
 # Getting Started with Appservice - Manage Function App With Domain Ssl - in Java #
