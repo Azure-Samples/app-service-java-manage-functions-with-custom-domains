@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Appservice
-  platforms: java
+- services: Appservice
+- platforms: java
 ---
 
 # Getting Started with Appservice - Manage Function App With Domain Ssl - in Java #
